@@ -32,6 +32,8 @@
 		E19FBC472857839800CA521E /* CoverImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19FBC462857839800CA521E /* CoverImageView.swift */; };
 		E19FBC4A285788C400CA521E /* CoverImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19FBC49285788C400CA521E /* CoverImageModel.swift */; };
 		E19FBC4D28578A5700CA521E /* CodeableBundleExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19FBC4C28578A5700CA521E /* CodeableBundleExtention.swift */; };
+		E19FBC4F28578FB500CA521E /* AnimalListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19FBC4E28578FB500CA521E /* AnimalListItemView.swift */; };
+		E19FBC51285791F400CA521E /* AnimalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19FBC50285791F400CA521E /* AnimalModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +64,8 @@
 		E19FBC462857839800CA521E /* CoverImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageView.swift; sourceTree = "<group>"; };
 		E19FBC49285788C400CA521E /* CoverImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageModel.swift; sourceTree = "<group>"; };
 		E19FBC4C28578A5700CA521E /* CodeableBundleExtention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeableBundleExtention.swift; sourceTree = "<group>"; };
+		E19FBC4E28578FB500CA521E /* AnimalListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListItemView.swift; sourceTree = "<group>"; };
+		E19FBC50285791F400CA521E /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +164,7 @@
 			isa = PBXGroup;
 			children = (
 				E19FBC462857839800CA521E /* CoverImageView.swift */,
+				E19FBC4E28578FB500CA521E /* AnimalListItemView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -168,6 +173,7 @@
 			isa = PBXGroup;
 			children = (
 				E19FBC49285788C400CA521E /* CoverImageModel.swift */,
+				E19FBC50285791F400CA521E /* AnimalModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -265,9 +271,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				E19FBC4D28578A5700CA521E /* CodeableBundleExtention.swift in Sources */,
+				E19FBC4F28578FB500CA521E /* AnimalListItemView.swift in Sources */,
 				E19FBC122857766300CA521E /* ContentView.swift in Sources */,
 				E19FBC442857801400CA521E /* MainView.swift in Sources */,
 				E19FBC472857839800CA521E /* CoverImageView.swift in Sources */,
+				E19FBC51285791F400CA521E /* AnimalModel.swift in Sources */,
 				E19FBC4A285788C400CA521E /* CoverImageModel.swift in Sources */,
 				E19FBC4028577FDC00CA521E /* MapView.swift in Sources */,
 				E19FBC102857766300CA521E /* AfricaApp.swift in Sources */,

@@ -12,7 +12,7 @@ struct CoverImageView: View {
     let coverImages: [CoverImage] = Bundle.main.decode("covers.json")
     
     // MARK:- BODY
-    var body: some View {
+    var body: some View { 
         TabView{
             ForEach(coverImages) { item in
                 Image(item.name)
