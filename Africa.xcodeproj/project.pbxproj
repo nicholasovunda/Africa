@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E124F2EB285B1D83006F2B20 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E124F2EA285B1D83006F2B20 /* MapAnnotationView.swift */; };
 		E19FBC102857766300CA521E /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19FBC0F2857766300CA521E /* AfricaApp.swift */; };
 		E19FBC122857766300CA521E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19FBC112857766300CA521E /* ContentView.swift */; };
 		E19FBC142857766600CA521E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E19FBC132857766600CA521E /* Assets.xcassets */; };
@@ -48,6 +49,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E124F2EA285B1D83006F2B20 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		E19FBC0C2857766300CA521E /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E19FBC0F2857766300CA521E /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		E19FBC112857766300CA521E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -196,6 +198,7 @@
 				E19FBC5C2857FE7000CA521E /* ExternalWeblinkView.swift */,
 				E1DBE8BB2859A1E600C41856 /* VideoListItemView.swift */,
 				E1DBE8BD2859BA6E00C41856 /* VideoPlayerView.swift */,
+				E124F2EA285B1D83006F2B20 /* MapAnnotationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				E1DBE8C12859BCF700C41856 /* VideoPlayerHelper.swift in Sources */,
 				E19FBC102857766300CA521E /* AfricaApp.swift in Sources */,
 				E19FBC3E28577FBE00CA521E /* VideoListView.swift in Sources */,
+				E124F2EB285B1D83006F2B20 /* MapAnnotationView.swift in Sources */,
 				E19FBC422857800700CA521E /* GalleryView.swift in Sources */,
 				E1DBE8BA2859A14500C41856 /* VideoModel.swift in Sources */,
 				E19FBC5B2857FAA100CA521E /* InsertMapView.swift in Sources */,
