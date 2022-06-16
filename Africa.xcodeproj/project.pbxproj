@@ -44,6 +44,7 @@
 		E1DBE8BC2859A1E600C41856 /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DBE8BB2859A1E600C41856 /* VideoListItemView.swift */; };
 		E1DBE8BE2859BA6E00C41856 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DBE8BD2859BA6E00C41856 /* VideoPlayerView.swift */; };
 		E1DBE8C12859BCF700C41856 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DBE8C02859BCF700C41856 /* VideoPlayerHelper.swift */; };
+		E1DBE8C32859C6D400C41856 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DBE8C22859C6D400C41856 /* LocationModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -86,6 +87,7 @@
 		E1DBE8BB2859A1E600C41856 /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
 		E1DBE8BD2859BA6E00C41856 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		E1DBE8C02859BCF700C41856 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
+		E1DBE8C22859C6D400C41856 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 				E19FBC49285788C400CA521E /* CoverImageModel.swift */,
 				E19FBC50285791F400CA521E /* AnimalModel.swift */,
 				E1DBE8B92859A14500C41856 /* VideoModel.swift */,
+				E1DBE8C22859C6D400C41856 /* LocationModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				E19FBC422857800700CA521E /* GalleryView.swift in Sources */,
 				E1DBE8BA2859A14500C41856 /* VideoModel.swift in Sources */,
 				E19FBC5B2857FAA100CA521E /* InsertMapView.swift in Sources */,
+				E1DBE8C32859C6D400C41856 /* LocationModel.swift in Sources */,
 				E19FBC572857A2CF00CA521E /* InsertGalleryView.swift in Sources */,
 				E1DBE8BC2859A1E600C41856 /* VideoListItemView.swift in Sources */,
 				E19FBC552857A15D00CA521E /* HeadingView.swift in Sources */,
