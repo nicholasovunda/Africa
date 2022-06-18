@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E124F2EB285B1D83006F2B20 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E124F2EA285B1D83006F2B20 /* MapAnnotationView.swift */; };
+		E18C4A85285D5108001ABCE1 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18C4A84285D5108001ABCE1 /* MotionAnimationView.swift */; };
 		E19FBC102857766300CA521E /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19FBC0F2857766300CA521E /* AfricaApp.swift */; };
 		E19FBC122857766300CA521E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19FBC112857766300CA521E /* ContentView.swift */; };
 		E19FBC142857766600CA521E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E19FBC132857766600CA521E /* Assets.xcassets */; };
@@ -50,6 +51,7 @@
 
 /* Begin PBXFileReference section */
 		E124F2EA285B1D83006F2B20 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		E18C4A84285D5108001ABCE1 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		E19FBC0C2857766300CA521E /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E19FBC0F2857766300CA521E /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		E19FBC112857766300CA521E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -199,6 +201,7 @@
 				E1DBE8BB2859A1E600C41856 /* VideoListItemView.swift */,
 				E1DBE8BD2859BA6E00C41856 /* VideoPlayerView.swift */,
 				E124F2EA285B1D83006F2B20 /* MapAnnotationView.swift */,
+				E18C4A84285D5108001ABCE1 /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				E19FBC572857A2CF00CA521E /* InsertGalleryView.swift in Sources */,
 				E1DBE8BC2859A1E600C41856 /* VideoListItemView.swift in Sources */,
 				E19FBC552857A15D00CA521E /* HeadingView.swift in Sources */,
+				E18C4A85285D5108001ABCE1 /* MotionAnimationView.swift in Sources */,
 				E19FBC592857F80100CA521E /* InsertFactView.swift in Sources */,
 				E1DBE8BE2859BA6E00C41856 /* VideoPlayerView.swift in Sources */,
 			);
