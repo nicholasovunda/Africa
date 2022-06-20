@@ -55,6 +55,7 @@ struct GalleryView: View {
                             selectedAnimal = item.image
                         }
                     }// LOOP
+                  
                 }// Grid
                 .animation(.easeIn)
                 .onAppear(perform: {

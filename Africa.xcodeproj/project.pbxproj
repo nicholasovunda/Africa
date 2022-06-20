@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E11D6288285F921400811307 /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11D6287285F921400811307 /* AnimalGridItemView.swift */; };
 		E124F2EB285B1D83006F2B20 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E124F2EA285B1D83006F2B20 /* MapAnnotationView.swift */; };
 		E18C4A85285D5108001ABCE1 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18C4A84285D5108001ABCE1 /* MotionAnimationView.swift */; };
 		E19FBC102857766300CA521E /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19FBC0F2857766300CA521E /* AfricaApp.swift */; };
@@ -50,6 +51,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E11D6287285F921400811307 /* AnimalGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGridItemView.swift; sourceTree = "<group>"; };
 		E124F2EA285B1D83006F2B20 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		E18C4A84285D5108001ABCE1 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		E19FBC0C2857766300CA521E /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -202,6 +204,7 @@
 				E1DBE8BD2859BA6E00C41856 /* VideoPlayerView.swift */,
 				E124F2EA285B1D83006F2B20 /* MapAnnotationView.swift */,
 				E18C4A84285D5108001ABCE1 /* MotionAnimationView.swift */,
+				E11D6287285F921400811307 /* AnimalGridItemView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				E1DBE8BA2859A14500C41856 /* VideoModel.swift in Sources */,
 				E19FBC5B2857FAA100CA521E /* InsertMapView.swift in Sources */,
 				E1DBE8C32859C6D400C41856 /* LocationModel.swift in Sources */,
+				E11D6288285F921400811307 /* AnimalGridItemView.swift in Sources */,
 				E19FBC572857A2CF00CA521E /* InsertGalleryView.swift in Sources */,
 				E1DBE8BC2859A1E600C41856 /* VideoListItemView.swift in Sources */,
 				E19FBC552857A15D00CA521E /* HeadingView.swift in Sources */,
